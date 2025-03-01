@@ -1,0 +1,17 @@
+identity:
+  author: wang_jiaer
+  name: database_operation
+  label:
+    en_US: database_operation
+    zh_Hans: database_operation
+    pt_BR: database_operation
+  description:
+    en_US: operate database
+    zh_Hans: operate database
+    pt_BR: operate database
+  icon: icon.svg
+tools:
+  - tools/database_operation.yaml
+extra:
+  python:
+    source: provider/database_operation.py
